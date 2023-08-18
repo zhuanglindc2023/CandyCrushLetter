@@ -6,7 +6,7 @@
       b. run "java -jar CandyCrushLetter-1.0.jar FILE_PATH"
           * FILE_PATH is the path of input txt file with the characters list.
           e.g. "java -jar CandyCrushLetter-1.0.jar c:\input.txt"
-# 3. There a guided navigators asking for additional inputs.
+# 3. There a guided navigator asking for additional inputs.
      - Please choose your options:
         1. Remove duplicated character directly.
         2. remove duplicated character with the one comes before it alphabetically.
